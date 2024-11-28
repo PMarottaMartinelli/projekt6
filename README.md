@@ -1,3 +1,6 @@
+28.11.2024
+Jetzt muss ein wenig Feinschliff erfolgen und die Index Seite verbunden werden.
+Ich versuche anschließend einzurichten, dass man über den Browser bzw. die Webanwendung, neue Items anlegen kann.
 
 
 Neuer Versuch nach Verbindungsproblemen mit MongoDB bei dem Vorgängerprojekt, habe ich mich entschlossen ein ganz neues Projekt aufzusetzen.  
